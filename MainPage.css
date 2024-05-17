@@ -1,0 +1,90 @@
+
+#inputSpace, #outputSpace {
+    display: inline-block;
+    vertical-align: top; 
+    width: 45%; 
+    margin: 20px; 
+    padding: 20px;
+    box-sizing: border-box; 
+}
+
+
+#inputSpace {
+    background-color: #f4f4f4;
+    border-radius: 10px; 
+    border: 1px solid #ccc;
+}
+
+
+#outputSpace {
+    background-color: #ddd;
+}
+
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px; 
+    margin-top: 20px; 
+}
+h1 {
+    font-family: Arial;
+    font-size: 36px; 
+  
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+}
+
+footer h2 {
+    margin-bottom: 10px;
+}
+
+#cmdCalculate {
+    background-color: #007bff; 
+    color: #fff; 
+    border: none;
+    border-radius: 20px; 
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    
+}
+
+#txtInput {
+    padding: 10px;
+    width: 200px;
+    font-size: 16px;
+    border: 2px solid #007bff; 
+    border-radius: 20px; 
+    background-color: #f0f8ff;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px; 
+}
+
+table td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+
+.blue {
+    background-color: blue !important; 
+}
+
+
+.yellow {
+    background-color: yellow !important; 
+}
